@@ -1,1 +1,1 @@
-# Vedio-Anomaly-Detection
+# Video-Anomaly-Detection
