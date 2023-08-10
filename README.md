@@ -24,7 +24,7 @@ This repository contains code for performing video anomaly detection using trans
    - `CLASS_LABELS`: List of class labels
    
 ## Dataset
-To run the code, you will need the video anomaly detection dataset. You can download the dataset from the following Google Drive link: Dataset Download Link.
+To run the code, you will need the video anomaly detection dataset. You can download the dataset from the following Google Drive link: [Dataset Download Link](https://drive.google.com/drive/folders/1mYviyAiLQbLqMU3BtwTtjKuliwnr8hSQ?usp=drive_link).
 
 Place the downloaded dataset in the appropriate directories as specified in the code:
 
